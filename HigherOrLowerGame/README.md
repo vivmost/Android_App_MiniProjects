@@ -1,4 +1,4 @@
-# HigherrOeLowergame
+# HigherrOrLowerGame
 An android App which tests your analytical skills to guess the number.
 
 #### Screenshots:
